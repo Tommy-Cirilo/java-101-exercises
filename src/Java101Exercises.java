@@ -28,7 +28,7 @@ public class Java101Exercises {
      */
     public static int addInts001(int a, int b) {
         // TODO: Write code here
-        return 0;
+        return a + b;
     }
 
     /**
@@ -43,7 +43,7 @@ public class Java101Exercises {
      */
     public static String sayHello002(String name) {
         // TODO: Write code here
-        return null;
+        return "Hello " + name + "!";
     }
 
     /**
@@ -85,7 +85,7 @@ public class Java101Exercises {
      */
     public static double addDouble004(double a, double b) {
         // TODO: Write code here
-        return 0.0;
+        return ((a + b) * 2);
     }
 
     /**
@@ -100,7 +100,7 @@ public class Java101Exercises {
      */
     public static String concatenateStrings005(String a, String b) {
         // TODO: Write code here
-        return null;
+        return a + " " + b;
     }
 
     /**
